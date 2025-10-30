@@ -1,14 +1,20 @@
 251026,#group#
 
 EPG节目单：https://epg.erw.cc/all.xml
-特别说明,#genre#
-关注微信公众号  学疏
+更新提示,#genre#
+关注微信公众号【学疏】
 根据使用网络,https://
 选择不同线路,https://
+
+
+
 酷9设置,#genre#
 其他设置,https://
 分组类型,https://
 二级分组模式,https://
+
+
+
 学疏直播,#group#
 
 
@@ -2567,4 +2573,5 @@ Discover Pakistan 巴基斯坦,https://livecdn.live247stream.com/discoverpakista
 澳门风云2-2015,https://c1.rrcdnbf1.com/video/aomenfengyun2/HD国语版/index.m3u8
 
 澳门风云3-2016,https://c1.rrcdnbf1.com/video/aomenfengyun3/HD国语版/index.m3u8
+
 
